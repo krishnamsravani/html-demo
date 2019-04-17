@@ -2,4 +2,8 @@
 
 # Allow crawling of all content
 User-agent: *
+<<<<<<< HEAD
 Disallow:hi how are you
+=======
+Disallow: heloooo sravani
+>>>>>>> feebc2705e545c89346c626ca3bdfa4cf27ed453
